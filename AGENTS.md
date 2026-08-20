@@ -10,6 +10,7 @@ This repository is an Obsidian vault.
 - For work knowledge, follow `.agents/skills/work-knowledge/SKILL.md`.
 - For university todos, follow `.agents/skills/university-todo/SKILL.md`.
 - For university notes, follow `.agents/skills/university-notes/SKILL.md`.
+- For personal finance transactions, follow `.agents/skills/finance-hledger/SKILL.md`.
 - For side projects, follow `.agents/skills/project-management/SKILL.md`.
 - Do not commit secrets, credentials, or tokens.
 - Do not edit device-specific/runtime files such as `.obsidian/workspace*.json`, `.git/`, `.stversions/`, or Syncthing temp files.
