@@ -1,0 +1,19 @@
+# Obsidian device-specific workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian trash
+.trash/
+
+# Syncthing local/versioning files
+.stversions/
+.syncthing*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor / temporary files
+*~
+*.swp
+*.tmp
