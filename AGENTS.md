@@ -8,5 +8,7 @@ This repository is an Obsidian vault.
 - Put attachments in `80 Attachments/`.
 - For work todos, follow `.agents/skills/work-todo/SKILL.md`.
 - For work knowledge, follow `.agents/skills/work-knowledge/SKILL.md`.
+- For university todos, follow `.agents/skills/university-todo/SKILL.md`.
+- For university notes, follow `.agents/skills/university-notes/SKILL.md`.
 - Do not commit secrets, credentials, or tokens.
 - Do not edit device-specific/runtime files such as `.obsidian/workspace*.json`, `.git/`, `.stversions/`, or Syncthing temp files.
