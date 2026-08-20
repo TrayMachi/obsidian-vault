@@ -1,0 +1,9 @@
+; Account definitions live here.
+; Add real accounts as they become known. Do not invent account names or balances.
+;
+; Common top-level account groups:
+; account Assets
+; account Liabilities
+; account Income
+; account Expenses
+; account Equity
