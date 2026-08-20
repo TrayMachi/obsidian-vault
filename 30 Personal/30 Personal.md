@@ -1,3 +1,5 @@
 # Personal
 
-Use this folder for personal notes, plans, references, and ideas.
+Personal notes live here. For now, this section only contains finance.
+
+- [[Finance/Finance|Finance]]
