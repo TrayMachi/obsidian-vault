@@ -1,0 +1,5 @@
+; Main hledger journal for personal finance.
+; Keep this file small; transaction data lives in yearly files.
+
+include accounts.journal
+include transactions/*.journal
