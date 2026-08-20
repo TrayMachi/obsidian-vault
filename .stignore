@@ -1,0 +1,15 @@
+// Git repository metadata should stay local to the primary Git machine
+.git
+
+// Device-specific Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+// Obsidian trash and Syncthing version-history storage
+.trash
+.stversions
+
+// Temporary / OS metadata
+.syncthing*.tmp
+.DS_Store
+Thumbs.db
