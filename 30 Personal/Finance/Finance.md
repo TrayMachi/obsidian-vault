@@ -1,19 +1,33 @@
 # Finance
 
-Use this section for personal finance notes, planning, and reviews.
+Use this section for personal finance notes, planning, and plaintext accounting.
 
-## Transaction tracking
+## Accounting
 
-Recommended Obsidian community plugin: **PennyWallet**.
+**hledger** is the source of truth for transactions, balances, income, and expenses.
 
-After installing PennyWallet, set its transaction folder to:
+Main journal:
 
-`30 Personal/Finance/Transactions`
+`30 Personal/Finance/hledger/main.journal`
 
-PennyWallet should be the source of truth for income, expenses, transfers, account balances, and transaction history.
+Transactions are split by year under:
+
+`30 Personal/Finance/hledger/transactions/`
+
+For AI-added finance transactions, follow `.agents/skills/finance-hledger/SKILL.md`.
+
+## Obsidian dashboard
+
+Optional community plugin: **Hledger**.
+
+Configure its journal file to:
+
+`30 Personal/Finance/hledger/main.journal`
+
+The plugin is only a viewer/dashboard; the `.journal` files remain the source of truth.
 
 ## Notes
 
-Create separate notes here for things such as budgets, financial goals, purchase planning, or monthly reviews when useful.
+Create separate Markdown notes here for budgets, financial goals, purchase planning, or monthly reviews when useful.
 
-Do not store passwords, card numbers, recovery codes, banking credentials, or other secrets in this vault.
+Do not store passwords, full card numbers, recovery codes, banking credentials, or other secrets in this vault.
